@@ -1,7 +1,8 @@
 import java.util.Scanner; // takes input from user
 import java.util.Random; // generate random number
 
-public class Game {
+public class Game 
+{
     public static void main(String[] args) 
     {
       Scanner scanner = new Scanner(System.in); // Creates object of scanner and random
