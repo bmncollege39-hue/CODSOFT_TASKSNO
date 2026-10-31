@@ -1,5 +1,5 @@
-import java.util.Scanner; // takes input from user
-import java.util.Random; // generate random number
+import java.util.Scanner;  // takes input from user
+import java.util.Random;  // generate random number
 
 public class Game 
 {
