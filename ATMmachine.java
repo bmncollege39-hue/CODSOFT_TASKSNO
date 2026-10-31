@@ -1,6 +1,6 @@
 import java.util.Scanner;    //reads input
 
-class Bankaccount  //create bankaccount class
+class Bankaccount   //create bankaccount class
 {
     double balance = 10000;  //balance is store 
     
